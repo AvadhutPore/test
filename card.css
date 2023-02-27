@@ -36,24 +36,24 @@ body{
 }
 
 .card-0{
-       background-image: url('/img/iron\ man.jpg');
+       background-image: url('../img/iron\ man.jpg');
 }
 
 .card-1{
-       background-image: url('/img/captain.jpg');
+       background-image: url('../img/captain.jpg');
   
 }
 
 .card-2{
-       background-image: url('/img/thor.jpg');
+       background-image: url('../img/thor.jpg');
 }
 
 .card-3{
-       background-image: url('/img/dr-strange-2.jpg');
+       background-image: url('../img/dr-strange-2.jpg');
 }
 
 .card-4{
-       background-image: url('/img/daredevil.jpg');
+       background-image: url('../img/daredevil.jpg');
 }
 
 .card:hover{
