@@ -36,7 +36,7 @@ body{
 }
 
 .card-0{
-       background-image: url('img/iron/man.jpg');
+       background-image: url('img/ironman.jpg');
 }
 
 .card-1{
@@ -53,7 +53,7 @@ body{
 }
 
 .card-4{
-       background-image: url('/img/daredevil.jpg');
+       background-image: url('img/daredevil.jpg');
 }
 
 .card:hover{
